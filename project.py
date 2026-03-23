@@ -30,7 +30,6 @@ try:
                 hour = dt_obj.hour
                 weekday = dt_obj.weekday()
 
-
                 valid.append({
                     'datetime': dt_obj,
                     'date': date_str,
